@@ -1,4 +1,4 @@
-# DO.IT — Task Tracker
+#Task Tracker
 
 A to-do list tracker that runs in a browser.
 
