@@ -1,17 +1,17 @@
 # DO.IT — Task Tracker
 
-A clean, minimal to-do list tracker that runs entirely in the browser. No frameworks, no dependencies, no build step.
+A to-do list tracker that runs in a browser.
 
-## Features
+Features
 
-- ✅ Add, complete, and delete tasks
-- 🏷️ Priority tags — append `!high`, `!med`, or `!low` to any task
-- 🔍 Filter by All / Active / Done
-- 📊 Progress bar with live completion stats
-- 💾 Persists to `localStorage` — survives page refresh
-- ⌨️ Keyboard friendly — press `Enter` to add
-
-## Usage
+- Add, complete, and delete tasks
+- Priority tags — append `!high`, `!med`, or `!low` to any task
+- Filter by All / Active / Done
+- Progress bar with live completion stats
+- Persists to `localStorage` — survives page refresh
+- Can press "Enter" to add
+  
+Usage
 
 ```
 # Clone the repo
